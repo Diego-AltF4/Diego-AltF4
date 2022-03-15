@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+.+I+am+Diego+Palacios;Second+line+of+text)](https://git.io/typing-svg)
+Hi there wave
 <!--
 **Diego-AltF4/Diego-AltF4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
